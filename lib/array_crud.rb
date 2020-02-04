@@ -9,7 +9,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  add_end = 
+  array = ["wow", "I", "am", "really", "learning"]
+  array_end.push = "array!"
+  return array
 end
 
 def add_element_to_start_of_array(array, element)
